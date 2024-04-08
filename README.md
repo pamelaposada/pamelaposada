@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Motivated by my passion for Fine Arts and design, in 2010, I graduated with a Bachelor's (Honours) degree in Fine Arts at Pontificia Universidad Catolica de Valparaiso, Chile. Years later, I worked as a graphic designer in the eLearning, advertisement, and marketing sectors until 2015. That year, I decided to travel to Australia to improve my English skills. During my first years in Australia, I started to develop an interest in technology and IT, which turned into a new career path by studying Cybersecurity at Swinburne University in 2020, and then Web Development at Holmesglen TAFE in Melbourne in 2021. Today I'm highly motivated to become an extraordinary IT professional and put into practice what I've learned through my professional experience and years of study.
+My name is Pamela Posada. Currently, I am working within the Cloud Engineering industry. However, I am passionate about coding and development, and I would like to become a professional Software Engineer in the future. ![image](https://github.com/pamelaposada/pamelaposada/assets/70921987/bbad8347-e26e-46ed-b717-e10638ebad8f)
+
 
 <!--
 **pamelaposada/pamelaposada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
